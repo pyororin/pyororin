@@ -20,6 +20,7 @@
 <tr><td><b>ハンドルネーム</b></td><td>pyororin(ぴょろりん)</td></tr>
 <tr><td><b>肩書き</b></td><td>エンジニア(開発・インフラ・セキュリティ・SRE)</td></tr>
 <tr><td><b>モットー</b></td><td>技術を自己目的化せず、ビジネス価値とユーザー体験へ。<b>サービスを止めない</b>ことに責任を持つ。</td></tr>
+<tr><td><b>お仕事のご相談</b></td><td><a href="https://findy-code.io/">Findy</a> / <a href="https://freelance.findy-code.io/">Findy Freelance</a> に登録しています(GitHub連携済み)</td></tr>
 <tr><td><b>最近ハマっていること</b></td><td>設計からテスト・検証環境までをAIにやらせる開発フロー</td></tr>
 <tr><td><b>すきなもの</b></td><td>登山 ⛰️ ・ 初音ミク 🎤 ・ AI 🤖 ・ FF14 ⚔️</td></tr>
 </table>
@@ -81,6 +82,7 @@ private の貢献も、右上の草にちゃんと反映しています。**ほ�
 
 <img src="assets/h-news.svg" alt="更新履歴" width="100%">
 
+- **2026.11.01** Findy Freelance に登録しました(GitHub連携済み)
 - **2026.11.01** ホームページを全面リニューアル(2000年代風)。公開リポジトリのREADMEも一斉に更新
 - **2026.08** 作品置き場にマジカルミライ向けゲーム企画を追加
 
