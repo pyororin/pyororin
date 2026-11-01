@@ -9,6 +9,7 @@
 <p align="center">
   <a href="#"><img src="assets/b-bbs.svg" alt="掲示板"></a>
   <a href="https://pyororin.net/"><img src="assets/b-net.svg" alt="pyororin.net"></a>
+  <a href="mailto:contact@pyororin.net"><img src="assets/b-mail.svg" alt="管理人へメール"></a>
 </p>
 
 <p align="center"><sub>Best viewed with: GitHub / 2026年版ブラウザ ・ 1024×768 以上推奨 ・ 最終更新 2026.11.01 ・ このサイトは <b>毎日更新中</b> です</sub></p>
@@ -90,6 +91,7 @@ private の貢献も、右上の草にちゃんと反映しています。**ほ�
   <a href="#"><img src="assets/b-ai.svg" alt="AI-NATIVE"></a>
   <a href="#"><img src="assets/b-free.svg" alt="リンクフリー"></a>
   <a href="#"><img src="assets/b-bbs.svg" alt="掲示板"></a>
+  <a href="mailto:contact@pyororin.net"><img src="assets/b-mail.svg" alt="管理人へメール"></a>
 </p>
 
-<p align="center"><sub>© 2026 pyororin ・ 当サイトの文章・画像の無断転載はご遠慮ください ・ 掲示板は工事中です</sub></p>
+<p align="center"><sub>© 2026 pyororin ・ 当サイトの文章・画像の無断転載はご遠慮ください ・ お問い合わせはメールで(✉ MAIL)。掲示板は工事中です</sub></p>
