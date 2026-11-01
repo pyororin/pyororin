@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" font-family="'Segoe UI','Hiragino Sans','Noto Sans JP','Yu Gothic',sans-serif"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b2e"/></linearGradient>
+<linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#bc8cff"/></linearGradient>
+<linearGradient id="b" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#238636"/><stop offset="1" stop-color="#56d364"/></linearGradient></defs>
+<rect width="1000" height="300" rx="16" fill="url(#g)"/>
+<g stroke="#ffffff" stroke-opacity=".05"><path d="M0 0V300"/><path d="M40 0V300"/><path d="M80 0V300"/><path d="M120 0V300"/><path d="M160 0V300"/><path d="M200 0V300"/><path d="M240 0V300"/><path d="M280 0V300"/><path d="M320 0V300"/><path d="M360 0V300"/><path d="M400 0V300"/><path d="M440 0V300"/><path d="M480 0V300"/><path d="M520 0V300"/><path d="M560 0V300"/><path d="M600 0V300"/><path d="M640 0V300"/><path d="M680 0V300"/><path d="M720 0V300"/><path d="M760 0V300"/><path d="M800 0V300"/><path d="M840 0V300"/><path d="M880 0V300"/><path d="M920 0V300"/><path d="M960 0V300"/><path d="M1000 0V300"/><path d="M0 0H1000"/><path d="M0 40H1000"/><path d="M0 80H1000"/><path d="M0 120H1000"/><path d="M0 160H1000"/><path d="M0 200H1000"/><path d="M0 240H1000"/><path d="M0 280H1000"/></g>
+<circle cx="860" cy="70" r="120" fill="#58a6ff" opacity=".08"/><circle cx="930" cy="250" r="90" fill="#bc8cff" opacity=".10"/>
+<text x="56" y="74" fill="#8b949e" font-size="15" letter-spacing="4">$ whoami</text>
+<text x="56" y="150" fill="url(#a)" font-size="76" font-weight="800">pyororin</text>
+<text x="58" y="196" fill="#e6edf3" font-size="24">技術を、ビジネス価値とユーザー体験へ。</text>
+<text x="58" y="228" fill="#8b949e" font-size="16">CTO · SRE · Security · AI-native builder — 止めないことに責任を持つ。</text>
+<g font-size="13" fill="#e6edf3">
+<rect x="58" y="248" width="86" height="28" rx="14" fill="#1f6feb" fill-opacity=".25" stroke="#58a6ff" stroke-opacity=".5"/><text x="101" y="267" text-anchor="middle">CTO</text>
+<rect x="154" y="248" width="86" height="28" rx="14" fill="#1f6feb" fill-opacity=".25" stroke="#58a6ff" stroke-opacity=".5"/><text x="197" y="267" text-anchor="middle">SRE</text>
+<rect x="250" y="248" width="112" height="28" rx="14" fill="#8957e5" fill-opacity=".25" stroke="#bc8cff" stroke-opacity=".5"/><text x="306" y="267" text-anchor="middle">Security</text>
+<rect x="372" y="248" width="112" height="28" rx="14" fill="#238636" fill-opacity=".25" stroke="#56d364" stroke-opacity=".5"/><text x="428" y="267" text-anchor="middle">AI-native</text></g>
+</svg>
