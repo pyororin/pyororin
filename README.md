@@ -1,91 +1,103 @@
+<p align="center"><img src="assets/banner.svg" alt="pyororin's HOME PAGE へようこそ" width="100%"></p>
+
 <p align="center">
-  <img src="assets/hero.svg" alt="pyororin — 技術を、ビジネス価値とユーザー体験へ。" width="100%">
+  <img src="https://komarev.com/ghpvc/?username=pyororin&label=あなたは&color=ff4d94&style=for-the-badge" alt="来訪者カウンター">
+  <b>人目のお客様です！</b><br>
+  <sub>キリ番(100の倍数)を踏んだ方は、掲示板でご報告ください ♪</sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CTO-1f6feb?style=flat-square" alt="">
-  <img src="https://img.shields.io/badge/SRE-1f6feb?style=flat-square" alt="">
-  <img src="https://img.shields.io/badge/Security-8957e5?style=flat-square" alt="">
-  <img src="https://img.shields.io/badge/AI--native-238636?style=flat-square" alt="">
+  <a href="#"><img src="assets/b-bbs.svg" alt="掲示板"></a>
+  <a href="https://pyororin.net/"><img src="assets/b-net.svg" alt="pyororin.net"></a>
+  <a href="https://sumpo.pyororin.net/"><img src="assets/b-sumpo.svg" alt="Sumpo"></a>
+  <a href="https://github.com/pyororin"><img src="assets/b-gh.svg" alt="GitHub"></a>
 </p>
 
-## ✦ 何をする人か
+<p align="center"><sub>Best viewed with: GitHub / 2026年版ブラウザ ・ 1024×768 以上推奨 ・ 最終更新 2026.11.01 ・ このサイトは <b>毎日更新中</b> です</sub></p>
 
-開発・インフラ・セキュリティ・組織まで、**「サービスを止めない」ことに一貫して責任を持つ**エンジニアです。
-月間数億PVのECを守る側から、スタートアップのCTOへ。いまは、設計から検証環境・テストまでをAIが担う開発フローを回しています。
+<img src="assets/h-profile.svg" alt="管理人のプロフィール" width="100%">
 
 <table>
-<tr>
-<td width="33%" valign="top">
-
-**🛡️ Security × AI**<br>
-ガバナンスを担いながら、生成AIで審査・相談を半自動化。相談時間 **-30%**。
-
-</td>
-<td width="33%" valign="top">
-
-**📈 SRE / Observability**<br>
-SLO/SLI、エラーバジェット、機械学習による異常検知。**SRE組織を0から**立ち上げ。
-
-</td>
-<td width="33%" valign="top">
-
-**⚡ 高負荷・大規模運用**<br>
-大規模セールの入場制限(待機体験)の設計で **グッドデザイン賞 2021**。
-
-</td>
-</tr>
+<tr><td><b>ハンドルネーム</b></td><td>pyororin(ぴょろりん)</td></tr>
+<tr><td><b>お仕事</b></td><td>スタートアップの CTO(2026年4月〜)。前職は LINEヤフーで、Yahoo!ショッピングのカート運用 → SRE → セキュリティ責任者</td></tr>
+<tr><td><b>もうひとつのお仕事</b></td><td>刑務所でのIT職業訓練(ネット販売実務科)の講師(2018年〜)</td></tr>
+<tr><td><b>モットー</b></td><td>技術を自己目的化せず、ビジネス価値とユーザー体験へ。<b>サービスを止めない</b>ことに責任を持つ。</td></tr>
+<tr><td><b>最近ハマっていること</b></td><td>設計からテスト・検証環境までをAIにやらせる開発フロー</td></tr>
+<tr><td><b>すきなもの</b></td><td>登山 ⛰️ ・ 初音ミク 🎤 ・ 寝台列車 🚃 ・ FF14 ⚔️</td></tr>
 </table>
 
-<img src="assets/timeline.svg" alt="経歴: 2005 SIer → 2016 LINEヤフー → 2022 SRE → 2024 Security → 2026 CTO" width="100%">
+<img src="assets/h-skill.svg" alt="得意なこと" width="100%">
 
-## ✦ 手を動かし続けています
+- 🛡️ **セキュリティ × 生成AI** — ガバナンスを担いながら、生成AIで審査・相談を半自動化(相談時間 **-30%**)
+- 📈 **SRE / Observability** — SLO/SLI、エラーバジェット、機械学習による異常検知。SRE組織を0から立ち上げ
+- ⚡ **高負荷・大規模運用** — 月間数億PVのECを24時間365日。大規模セールの入場制限(待機体験)の設計で **グッドデザイン賞 2021**
+- 🤖 **AI開発フロー** — 設計・実装・テスト・検証環境の用意までをAIが担う仕組みづくり
+- 👥 **組織づくり・採用** — 採用基準の言語化、AIを使った工程管理で少数精鋭チームを自律型に
 
-<img src="assets/activity.svg" alt="直近12か月、private を含めて1,300 commits" width="100%">
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
+</p>
 
-> 作っているものの大半は **private** です。GitHub の草にはほとんど現れませんが、実際には毎月コミットしています。
+<img src="assets/h-history.svg" alt="年表" width="100%">
 
-| 公開しているもの | 中身 |
+| 年 | できごと |
 |---|---|
-| [`prompt-ng-words`](https://github.com/pyororin/prompt-ng-words) | プロンプトインジェクション検出API(Spring Boot) |
-| [`MagicalMirai-games001`](https://github.com/pyororin/MagicalMirai-games001) | マジカルミライ・プログラミング・コンテスト向けゲーム企画 |
-| [`minesweeper-ts`](https://github.com/pyororin/minesweeper-ts) | AIコーディングエージェントで作ったマインスイーパー |
-| [`jira-summary-chrome-extension`](https://github.com/pyororin/jira-summary-chrome-extension) | JIRA課題の要約表示Chrome拡張 |
-| [`bakusoku-yamatan-chrome-extension`](https://github.com/pyororin/bakusoku-yamatan-chrome-extension) | 山小屋予約を“秒”にする非公式Chrome拡張 |
+| **2005** | SIerに入社。Java / Ruby / C++ で業務システムを作りつつ、社内Linuxサーバーを10年運用(後半5年は開発リーダー) |
+| **2016** | LINEヤフー(旧ヤフー)へ。Yahoo!ショッピングのカート運用リーダーに |
+| **2018** | 刑務所でのIT職業訓練の講師を開始(いまも継続中) |
+| **2022** | SRE組織を立ち上げ。SLO/SLI・Observability を導入 |
+| **2024** | セキュリティ責任者に。生成AIで審査・相談業務をDX |
+| **2026** | スタートアップのCTOに就任。AI開発フローを樹立 |
+
+<img src="assets/h-works.svg" alt="作品置き場(公開中)" width="100%">
+
+| 作品 | ひとこと |
+|---|---|
+| [prompt-ng-words](https://github.com/pyororin/prompt-ng-words) | プロンプトインジェクション検出API(Spring Boot) |
+| [MagicalMirai-games001](https://github.com/pyororin/MagicalMirai-games001) | マジカルミライ・プログラミング・コンテスト向けのゲーム企画 |
+| [minesweeper-ts](https://github.com/pyororin/minesweeper-ts) | AIコーディングエージェントで作ったマインスイーパー |
+| [jira-summary-chrome-extension](https://github.com/pyororin/jira-summary-chrome-extension) | JIRA課題の要約をタイプライター風に表示するChrome拡張 |
+| [bakusoku-yamatan-chrome-extension](https://github.com/pyororin/bakusoku-yamatan-chrome-extension) | 山小屋予約を“秒”にする非公式Chrome拡張 |
+
+<img src="assets/h-private.svg" alt="秘密の工房(private)" width="100%">
+<img src="assets/construction.svg" alt="工事中" width="100%">
 
 <details>
-<summary><b>🔒 private の工房(中身は非公開)</b></summary>
+<summary><b>👀 こっそり覗く(中身は非公開です)</b></summary>
 
 <br>
 
-| 領域 | 内容 |
-|---|---|
-| 🎬 動画制作 | GitHub Issues を起点に、台本・立ち絵・音声・サムネイルまでAIで自動生成するパイプライン |
-| 📊 トレード | 板情報(OBI/OFI/CVD)を使ったスキャルピングBotと、検証・最適化の仕組み |
-| 📐 Webツール | 図面PDF/画像をタップして実寸・面積を出す [Sumpo](https://sumpo.pyororin.net/)(運用中) |
-| 🧪 実験 | 画像生成を使った着せ替えアプリ、データ分析、各種業務自動化 ほか |
+- 🎬 GitHub Issues を起点に、台本・立ち絵・音声・サムネイルまでAIで作る**動画制作パイプライン**
+- 📊 板情報(OBI/OFI/CVD)を使った**スキャルピングBot**と検証の仕組み
+- 📐 図面PDF/画像をタップして実寸・面積を出す Webツール [Sumpo](https://sumpo.pyororin.net/)(運用中)
+- 🧪 画像生成を使った着せ替えアプリ、各種業務の自動化 など
+
+private の貢献も、右上の草にちゃんと反映しています。**ほぼ毎日、何か作っています。**
 
 </details>
 
-## ✦ Tech
+<img src="assets/h-news.svg" alt="更新履歴" width="100%">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-  <br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
+- **2026.11.01** ホームページを全面リニューアル(2000年代風)。公開リポジトリのREADMEも一斉に更新
+- **2026.09** スタートアップ向けインタビューメディア「Cuval」に取材していただきました
+- **2026.08** 作品置き場にマジカルミライ向けゲーム企画を追加
 
-## ✦ もうひとつの仕事
-
-2018年から、刑務所でIT未経験の受刑者向けに**職業訓練(ネット販売実務科)**の講師をしています。専門用語を使わずに伝える力は、ここで鍛えられました。
+<img src="assets/h-link.svg" alt="リンク集・バナー" width="100%">
 
 <p align="center">
-  <a href="https://pyororin.net/"><img src="https://img.shields.io/badge/pyororin.net-0d1117?style=for-the-badge&logo=cloudflare&logoColor=white" alt="pyororin.net"></a>
+  <a href="https://pyororin.net/"><img src="assets/b-net.svg" alt="pyororin.net"></a>
+  <a href="https://sumpo.pyororin.net/"><img src="assets/b-sumpo.svg" alt="Sumpo"></a>
+  <a href="https://github.com/pyororin"><img src="assets/b-gh.svg" alt="GitHub"></a>
+  <a href="#"><img src="assets/b-ai.svg" alt="AI-NATIVE"></a>
+  <a href="#"><img src="assets/b-free.svg" alt="リンクフリー"></a>
+  <a href="#"><img src="assets/b-bbs.svg" alt="掲示板"></a>
 </p>
+
+<p align="center"><sub>© 2026 pyororin ・ 当サイトの文章・画像の無断転載はご遠慮ください ・ ご意見・ご感想は掲示板まで(準備中)</sub></p>
