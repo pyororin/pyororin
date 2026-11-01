@@ -19,8 +19,7 @@
 
 <table>
 <tr><td><b>ハンドルネーム</b></td><td>pyororin(ぴょろりん)</td></tr>
-<tr><td><b>お仕事</b></td><td>スタートアップの CTO(2026年4月〜)。前職は LINEヤフーで、Yahoo!ショッピングのカート運用 → SRE → セキュリティ責任者</td></tr>
-<tr><td><b>もうひとつのお仕事</b></td><td>刑務所でのIT職業訓練(ネット販売実務科)の講師(2018年〜)</td></tr>
+<tr><td><b>肩書き</b></td><td>エンジニア(開発・インフラ・セキュリティ・SRE)</td></tr>
 <tr><td><b>モットー</b></td><td>技術を自己目的化せず、ビジネス価値とユーザー体験へ。<b>サービスを止めない</b>ことに責任を持つ。</td></tr>
 <tr><td><b>最近ハマっていること</b></td><td>設計からテスト・検証環境までをAIにやらせる開発フロー</td></tr>
 <tr><td><b>すきなもの</b></td><td>登山 ⛰️ ・ 初音ミク 🎤 ・ 寝台列車 🚃 ・ FF14 ⚔️</td></tr>
@@ -28,11 +27,11 @@
 
 <img src="assets/h-skill.svg" alt="得意なこと" width="100%">
 
-- 🛡️ **セキュリティ × 生成AI** — ガバナンスを担いながら、生成AIで審査・相談を半自動化(相談時間 **-30%**)
-- 📈 **SRE / Observability** — SLO/SLI、エラーバジェット、機械学習による異常検知。SRE組織を0から立ち上げ
-- ⚡ **高負荷・大規模運用** — 月間数億PVのECを24時間365日。大規模セールの入場制限(待機体験)の設計で **グッドデザイン賞 2021**
+- 🛡️ **セキュリティ × 生成AI** — 脆弱性・攻撃への対処と、生成AIを使った審査・相談業務の半自動化
+- 📈 **SRE / Observability** — SLO/SLI、エラーバジェット、機械学習による異常検知、負荷試験・キャパシティプランニング
+- ⚡ **高負荷・大規模サービスの運用** — 入場制限(待機体験)の設計で **グッドデザイン賞 2021**
 - 🤖 **AI開発フロー** — 設計・実装・テスト・検証環境の用意までをAIが担う仕組みづくり
-- 👥 **組織づくり・採用** — 採用基準の言語化、AIを使った工程管理で少数精鋭チームを自律型に
+- 🧱 **フルスタック** — インフラ(Linux/クラウド)からアプリ(Java / Ruby / Go / TypeScript ほか)まで自分の手で
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -45,16 +44,14 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
 </p>
 
-<img src="assets/h-history.svg" alt="年表" width="100%">
+<img src="assets/h-history.svg" alt="技術歴" width="100%">
 
-| 年 | できごと |
+| 時期 | 触ってきたもの |
 |---|---|
-| **2005** | SIerに入社。Java / Ruby / C++ で業務システムを作りつつ、社内Linuxサーバーを10年運用(後半5年は開発リーダー) |
-| **2016** | LINEヤフー(旧ヤフー)へ。Yahoo!ショッピングのカート運用リーダーに |
-| **2018** | 刑務所でのIT職業訓練の講師を開始(いまも継続中) |
-| **2022** | SRE組織を立ち上げ。SLO/SLI・Observability を導入 |
-| **2024** | セキュリティ責任者に。生成AIで審査・相談業務をDX |
-| **2026** | スタートアップのCTOに就任。AI開発フローを樹立 |
+| **2000年代** | Java / Ruby / C++ での業務システム開発。Linuxサーバーの構築・運用 |
+| **2010年代** | Webアプリ開発(Rails ほか)、大規模ECの運用、負荷対策 |
+| **2020年代前半** | SRE・Observability(SLO/SLI、異常検知)、セキュリティガバナンス |
+| **2025〜** | Go / TypeScript / Python を中心に、AIコーディングエージェントとの協働開発。生成AIの業務活用 |
 
 <img src="assets/h-works.svg" alt="作品置き場(公開中)" width="100%">
 
@@ -86,7 +83,6 @@ private の貢献も、右上の草にちゃんと反映しています。**ほ�
 <img src="assets/h-news.svg" alt="更新履歴" width="100%">
 
 - **2026.11.01** ホームページを全面リニューアル(2000年代風)。公開リポジトリのREADMEも一斉に更新
-- **2026.09** スタートアップ向けインタビューメディア「Cuval」に取材していただきました
 - **2026.08** 作品置き場にマジカルミライ向けゲーム企画を追加
 
 <img src="assets/h-link.svg" alt="リンク集・バナー" width="100%">
