@@ -1,8 +1,8 @@
 <p align="center"><img src="assets/banner.svg" alt="pyororin's HOME PAGE へようこそ" width="100%"></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pyororin&label=あなたは&color=ff4d94&style=for-the-badge" alt="来訪者カウンター">
-  <b>人目のお客様です！</b><br>
+  <img src="https://komarev.com/ghpvc/?username=pyororin&label=VISITOR+No.&color=ff4d94&style=for-the-badge" alt="来訪者カウンター">
+  <b>番目のお客様です！</b><br>
   <sub>キリ番(100の倍数)を踏んだ方は、掲示板でご報告ください ♪</sub>
 </p>
 
