@@ -9,5 +9,5 @@
 <text x="500" y="138" text-anchor="middle" font-size="64" font-weight="900" fill="url(#rb)" stroke="#000" stroke-width="1.5" paint-order="stroke">pyororin's HOME PAGE</text>
 <g transform="translate(868 50) rotate(12)"><text font-size="24" font-weight="900" fill="#ff2d2d" stroke="#fff" stroke-width="1" paint-order="stroke">NEW!<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" calcMode="discrete"/></text></g>
 <rect x="20" y="164" width="960" height="26" fill="#000" fill-opacity=".45"/>
-<g clip-path="url(#c)"><text y="183" font-size="16" fill="#7dff4d">♪ ようこそ！ 2026年もバリバリ更新中です ♪ キリ番を踏んだ方は掲示板でご報告ください ♪ リンクフリー・相互リンク歓迎 ♪ 荒らし・誹謗中傷はご遠慮ください ♪ 
+<g clip-path="url(#c)"><text y="183" font-size="16" fill="#7dff4d">♪ ようこそ！ 2026年もバリバリ更新中です ♪ 掲示板は目下工事中です ♪ リンクフリー・相互リンク歓迎 ♪ 荒らし・誹謗中傷はご遠慮ください ♪ 
 <animateTransform attributeName="transform" type="translate" from="1000 0" to="-1100 0" dur="22s" repeatCount="indefinite"/></text></g></svg>

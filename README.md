@@ -3,13 +3,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pyororin&label=VISITOR+No.&color=ff4d94&style=for-the-badge" alt="来訪者カウンター">
   <b>番目のお客様です！</b><br>
-  <sub>キリ番(100の倍数)を踏んだ方は、掲示板でご報告ください ♪</sub>
+  <sub>キリ番(100の倍数)を踏んだ方は、掲示板でご報告を…と言いたいところですが、掲示板は🚧工事中🚧です</sub>
 </p>
 
 <p align="center">
   <a href="#"><img src="assets/b-bbs.svg" alt="掲示板"></a>
   <a href="https://pyororin.net/"><img src="assets/b-net.svg" alt="pyororin.net"></a>
-  <a href="https://sumpo.pyororin.net/"><img src="assets/b-sumpo.svg" alt="Sumpo"></a>
   <a href="https://github.com/pyororin"><img src="assets/b-gh.svg" alt="GitHub"></a>
 </p>
 
@@ -89,11 +88,10 @@ private の貢献も、右上の草にちゃんと反映しています。**ほ�
 
 <p align="center">
   <a href="https://pyororin.net/"><img src="assets/b-net.svg" alt="pyororin.net"></a>
-  <a href="https://sumpo.pyororin.net/"><img src="assets/b-sumpo.svg" alt="Sumpo"></a>
   <a href="https://github.com/pyororin"><img src="assets/b-gh.svg" alt="GitHub"></a>
   <a href="#"><img src="assets/b-ai.svg" alt="AI-NATIVE"></a>
   <a href="#"><img src="assets/b-free.svg" alt="リンクフリー"></a>
   <a href="#"><img src="assets/b-bbs.svg" alt="掲示板"></a>
 </p>
 
-<p align="center"><sub>© 2026 pyororin ・ 当サイトの文章・画像の無断転載はご遠慮ください ・ ご意見・ご感想は掲示板まで(準備中)</sub></p>
+<p align="center"><sub>© 2026 pyororin ・ 当サイトの文章・画像の無断転載はご遠慮ください ・ 掲示板は工事中です</sub></p>
